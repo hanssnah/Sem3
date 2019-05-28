@@ -1,0 +1,2 @@
+I've learned how to use smart pointer and what are differents between raw pointer and smart pointer.
+Also, I've learned how to use smart pointer to move an object and use. 

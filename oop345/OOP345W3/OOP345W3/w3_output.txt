@@ -1,0 +1,40 @@
+Script started on Fri 31 Aug 2018 04:56:20 PM EDT
+]0;cornel.barna@**********[?1034h[32m•[1m[38;5;214m Workshop 03 [1m[38;5;11m›[0m ws
+[38;5;9mBegin Testing the Program!
+--------------------------[0m
+
+Inventory
+=========
+Product: Apple
+Price: 1.23
+Product: Black Tea
+Price: 5.29
+Product: Juice
+Price: 3.45
+Product: quit
+
+Price List
+-----------
+Apple : 1.23
+Black Tea : 5.29
+Juice : 3.45
+
+Glossary
+========
+Key: CPU
+Definition: Central Processing Unit
+Key: NVIDIA
+Definition: Gaming Video Card
+Key: quit
+
+Entries
+-------
+CPU : Central Processing Unit
+NVIDIA : Gaming Video Card
+
+[38;5;9m------------------------
+End Testing the Program![0m
+]0;cornel.barna@**********[32m•[1m[38;5;214m Workshop 03 [1m[38;5;11m›[0m exit
+exit
+
+Script done on Fri 31 Aug 2018 04:57:40 PM EDT

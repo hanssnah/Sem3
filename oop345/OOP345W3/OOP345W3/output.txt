@@ -1,0 +1,40 @@
+Script started on Fri 28 Sep 2018 10:25:47 PM EDT
+]0;hscho5@mtrx-node04pd:~/oop345/OOP345W3/OOP345W3[?1034h[hscho5@mtrx-node04pd OOP345W3]$ ws
+[38;5;9mBegin Testing the Program!
+--------------------------[0m
+
+Inventory
+=========
+Product: Apple
+Price: 1.23
+Product: Black Tea
+Price: 5.29
+Product: Juice
+Price: 3.45
+Product: quit
+
+Price List
+-----------
+Apple : 1.23
+Black Tea : 5.29
+Juice : 3.45
+
+Glossary
+========
+Key: CPU
+Definition: Central Processing Unit
+Key: NVIDIA
+Definition: Gaming Video Card
+Key: quit
+
+Entries
+-------
+CPU : Central Processing Unit
+NVIDIA : Gaming Video Card
+
+[38;5;9m------------------------
+End Testing the Program![0m
+]0;hscho5@mtrx-node04pd:~/oop345/OOP345W3/OOP345W3[hscho5@mtrx-node04pd OOP345W3]$ exit
+exit
+
+Script done on Fri 28 Sep 2018 10:26:22 PM EDT

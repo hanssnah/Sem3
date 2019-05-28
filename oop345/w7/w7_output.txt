@@ -1,0 +1,49 @@
+Script started on Thu 18 Oct 2018 03:39:34 PM EDT
+]0;cornel.barna@**********› ws w7_Simple.dat w7_HS_College_GPA.dat
+[38;5;9mBegin Testing the Program!
+--------------------------[0m
+
+Command Line: ws w7_Simple.dat w7_HS_College_GPA.dat
+
+****************************************
+*** Processing file [w7_Simple.dat]
+****************************************
+
+Data Values
+------------
+       x       y
+  2.1000  8.0000
+  2.5000 12.0000
+  4.0000 14.0000
+  3.6000 10.0000
+
+Statistics
+----------
+  y mean    =  11.0000
+  y sigma   =   2.5820
+  y median  =  12.0000
+  slope     =   1.9087
+  intercept =   5.1784
+************************************
+
+
+****************************************
+*** Processing file [w7_HS_College_GPA.dat]
+****************************************
+
+Statistics
+----------
+  y mean    =   3.1212
+  y sigma   =   0.5066
+  y median  =   3.2100
+  slope     =   0.7802
+  intercept =   0.7279
+************************************
+
+
+[38;5;9m------------------------
+End Testing the Program![0m
+]0;cornel.barna@**********›exit
+exit
+
+Script done on Thu 18 Oct 2018 03:42:18 PM EDT

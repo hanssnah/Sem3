@@ -1,0 +1,21 @@
+Script started on Fri 31 Aug 2018 06:19:51 PM EDT
+]0;cornel.barna@******************[?1034h[32m•[1m[38;5;214m Workshop 05 [1m[38;5;11m›[0m ws w5_prof_grades.dat
+[38;5;9mBegin Testing the Program!
+--------------------------[0m
+
+Command Line: ws w5_prof_grades.dat 
+   1022342 67.40 C+  
+   1024567 73.50 B   
+   2031456 79.30 B+  
+   6032144 53.50 D   
+   1053250 92.10 A+  
+   3026721 86.50 A   
+   7420134 62.30 C   
+   9762314 58.70 D+  
+
+[38;5;9m------------------------
+End Testing the Program![0m
+]0;cornel.barna@*****************[32m•[1m[38;5;214m Workshop 05 [1m[38;5;11m›[0m exit
+exit
+
+Script done on Fri 31 Aug 2018 06:20:25 PM EDT

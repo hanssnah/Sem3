@@ -1,0 +1,2 @@
+I learned how to use STL vector and polyorphic objects through this workshop.
+Also, I practiced how to use try-catch and handle an exception.

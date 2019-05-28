@@ -1,0 +1,5 @@
+In file included from w5.cpp:8:0:
+Letter.h: In function ‘std::string sict::grading(const E&) [with E = sict::letters; std::string = std::basic_string<char>]’:
+Letter.h:40:2: warning: control reaches end of non-void function [-Wreturn-type]
+  }
+  ^

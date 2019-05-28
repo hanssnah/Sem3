@@ -1,0 +1,2 @@
+I've learned how to use deque and vector properly and assemblyline as well.
+Also, I've learned how to use drived classes and functions.

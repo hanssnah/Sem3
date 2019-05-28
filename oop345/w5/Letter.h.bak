@@ -1,0 +1,45 @@
+// Workshop 5 - Lambda Expression
+// 345_w5.cpp
+// 2018/10-11
+//Hansol Cho 103608170 hscho5@myseneca.ca
+#pragma once
+#ifndef SICT_LETTER_H
+#define SICT_LETTER_H
+#include <iostream>
+#include <string>
+
+namespace sict {
+	
+	//enumeration
+
+	enum letters { Ap, A, Bp, B, Cp, C, Dp, D, F };
+
+	template<typename E>
+	std::string grading(const E& lt) {
+		switch (lt) {
+		case Ap: return "A+";
+			break;
+		case A: return "A";
+			break;
+		case Bp: return "B+";
+			break;
+		case B: return "B";
+			break;
+		case Cp: return "C+";
+			break;
+		case C: return "C";
+			break;
+		case Dp: return "D+";
+			break;
+		case D: return "D";
+			break;
+		case F: return "F";
+			break;
+			return 0;
+		}
+	}
+
+}
+
+
+#endif

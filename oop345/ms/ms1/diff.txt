@@ -1,0 +1,10 @@
+
+In line number 11 of your output:
+The output should be:
+CPU          [123456]
+But your output is: 
+CPU          [123456]Memory       [654321]GPU          [056789]SSD          [987654]Power Supply [147852]
+                     ^
+---------------------|
+Professor's character ASCII code: hex(d), dec(13)
+un-matched character ASCII code: hex(4d), dec(77)

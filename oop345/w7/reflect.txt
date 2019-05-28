@@ -1,0 +1,2 @@
+I've learned how to use STL numeric, algorithm, functional library functions.
+Such as sort() , accumulate(), inner_product(), transform(), sqrt() functions.

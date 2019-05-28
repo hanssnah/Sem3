@@ -1,0 +1,4 @@
+Message.cpp: In constructor ‘w4::Message::Message(std::ifstream&, char)’:
+Message.cpp:27:27: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+    if (findEnd != string::npos) { // if findEnd is not the maxsize of size_t
+			   ^

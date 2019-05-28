@@ -1,0 +1,49 @@
+Script started on Thu 27 Sep 2018 03:25:26 PM EDT
+cornel.barna@mtrx-node01pd:************› ws sales.dat
+[38;5;9mBegin Testing the Program!
+--------------------------[0m
+
+Command Line: ws sales.dat 
+====================================
+Reading data from the file
+====================================
+Processing record 1: done!
+Processing record 2: done!
+Processing record 3: done!
+Processing record 4: done!
+Processing record 5: Unrecognizable Tax Code!
+Processing record 6: done!
+Processing record 7: done!
+Processing record 8: done!
+Processing record 9: done!
+Processing record 10: done!
+Processing record 11: Unrecognizable Tax Code!
+Processing record 12: done!
+Processing record 13: no such record! Reached the end of the file!
+====================================
+
+====================================
+Printing the content of the vector
+====================================
+      Product No         Taxable
+------------------------------------
+           10012           34.56
+           10023           45.67 HST
+           10234           12.32 PST
+           10056           67.54
+           10032            2.34 HST
+           10029           54.12
+           04301           84.00 HST
+           10044           17.89 PST
+           10035           96.30
+           00004            8.01
+------------------------------------
+               Total:     442.33
+====================================
+
+[38;5;9m------------------------
+End Testing the Program![0m
+cornel.barna@mtrx-node01pd:************› exit
+exit
+
+Script done on Thu 27 Sep 2018 03:26:02 PM EDT

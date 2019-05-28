@@ -1,0 +1,10 @@
+
+In line number 3 of your output:
+The output should be:
+[38;5;9mBegin Testing the Program!
+But your output is: 
+[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+^
+|
+Professor's character ASCII code: hex(1b), dec(27)
+un-matched character ASCII code: hex(d), dec(13)
